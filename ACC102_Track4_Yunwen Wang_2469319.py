@@ -19,7 +19,6 @@ with st.expander("ℹ️ About This App"):
     st.markdown("""
     - **Purpose:** Compare stock performance from CRSP database
     - **Data Source:** WRDS (Wharton Research Data Services)
-    - **Developer:** Student Project
     
     **How to use:**
     1. Enter your WRDS credentials
